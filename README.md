@@ -24,4 +24,4 @@ Used for heroku deployment
 mvn clean install
 java -jar target/isbn-spring-boot-0.0.1-SNAPSHOT.jar
 ```
-React app will run on port 3000
+Combined app will run on port 8080
